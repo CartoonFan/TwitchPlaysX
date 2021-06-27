@@ -16,6 +16,6 @@
     "url": "https://github.com/hzoo/TwitchPlaysX.git"
   },
   "devDependencies": {
-    "prettier": "2.0.5"
+    "prettier": "2.3.2"
   }
 }
